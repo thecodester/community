@@ -27,7 +27,7 @@ to set up PostgreSQL on Compute Engine with just a few clicks.
 ## Before you begin
 
 You'll need a GCP project. You can use an existing project or
-click the button to create a new project:
+click the button to create a new project.
 
 **[Create a project](https://console.cloud.google.com/project)**
 
